@@ -4,5 +4,3 @@ description: An active implementation of GraphQL in Golang (was https://github.c
 url: https://github.com/graph-gophers/graphql-go
 github: graph-gophers/graphql-go
 ---
-
-
